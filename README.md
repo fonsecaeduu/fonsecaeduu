@@ -5,7 +5,7 @@
 [![EMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jfonsecaedu@gmail.com)
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardoj-fonseca)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fonsecaeduu&show_icons=true&theme=date_night)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fonsecaeduu&show_icons=true&theme=transparent)
 
 ## Tecnologias principais
 <div style="display: inline_block"><br/>
